@@ -1,0 +1,55 @@
+{
+  "Student": [
+
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950a",
+      "Name": "Gonzalo",
+      "Surname": "Fernandez",
+      "BirthDate": "01-08-2000",
+      "Street": "Dalí,3",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950b",
+      "Name": "Juan",
+      "Surname": "Rodríguez",
+      "BirthDate": "02-10-2000",
+      "Street": "Valeras,24",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950c",
+      "Name": "Pedro",
+      "Surname": "Rodríguez",
+      "BirthDate": "09-08-2001",
+      "Street": "Moreras,24",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950d",
+      "Name": "Fernando",
+      "Surname": "Pérez",
+      "BirthDate": "01-09-2000",
+      "Street": "Rey,15",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    },
+    {
+      "ID": "0f8fad5b-d9cb-469f-a165-70867728950e",
+      "Name": "Alberto",
+      "Surname": "Garcia",
+      "BirthDate": "03-07-1999",
+      "Street": "Montecillo,30",
+      "City": "Aranjuez",
+      "PostalCode": "28300"
+
+    }
+  ]
+}
